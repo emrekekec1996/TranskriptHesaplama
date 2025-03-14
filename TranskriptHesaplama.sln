@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranskriptHesaplama.UI", "TranskriptHesaplama.UI\TranskriptHesaplama.UI.csproj", "{65FE1048-94CB-4521-B9CF-C7D394D1CB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65FE1048-94CB-4521-B9CF-C7D394D1CB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FE1048-94CB-4521-B9CF-C7D394D1CB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FE1048-94CB-4521-B9CF-C7D394D1CB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FE1048-94CB-4521-B9CF-C7D394D1CB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AAC9346-23CD-4F11-A38F-9AC444F24B50}
+	EndGlobalSection
+EndGlobal
